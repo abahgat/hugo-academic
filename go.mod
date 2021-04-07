@@ -1,3 +1,3 @@
-module github.com/wowchemy/wowchemy-hugo-modules
+module github.com/abahgat/wowchemy-hugo-modules
 
 go 1.14
